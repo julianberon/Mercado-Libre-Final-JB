@@ -1,0 +1,12 @@
+.git
+.gradle
+build
+*.log
+*.md
+.idea
+*.iml
+.DS_Store
+target
+README.md
+DiagramaSecuencia.png
+
