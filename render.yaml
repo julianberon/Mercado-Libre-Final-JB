@@ -2,7 +2,7 @@ services:
   - type: web
     name: mutant-detector-api
     env: docker
-    dockerfilePath: ./Dockerfile
+    dockerfilePath: ./Mercado-Libre-JulianBeron/Dockerfile
     dockerContext: ./Mercado-Libre-JulianBeron
     envVars:
       - key: PORT
